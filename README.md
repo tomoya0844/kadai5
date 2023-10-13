@@ -66,7 +66,16 @@ https://zenn.dev/search?q=Laravel
 | HTTPレスポンスボディ | 『相手が欲しがってたファイルの中身』が書いてある場所 |
 
 ## JSONとは
+> JSONとは、
+> JavaScript Object Notation（ジャヴァスクリプト・オブジェクト・ノーテーション）の略
+
 - JavaScriptと相性が良い、ファイルの書き方ルール
+
+| 単語 | 意味 |
+| :-: | :-: |
+| JavaScript | [プログラミング言語](https://wa3.i-3-i.info/word1897.html)の[「JavaScript」](https://wa3.i-3-i.info/word11438.html) |
+| Object | 	[オブジェクト](https://wa3.i-3-i.info/word1119.html)。「対象」とか「物」とか |
+| Notation | 	[「表記法」](https://kotobank.jp/word/%E8%A1%A8%E8%A8%98%E6%B3%95-613173)とか |
 
  ↓記載例↓
   ```json
