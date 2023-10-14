@@ -78,7 +78,7 @@ https://zenn.dev/search?q=Laravel
 | Notation | 	[「表記法」](https://kotobank.jp/word/%E8%A1%A8%E8%A8%98%E6%B3%95-613173)とか |
 
  ↓記載例↓
-  ```json[
+  ```json
 [
   {
     "ID": 1,
