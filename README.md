@@ -78,22 +78,22 @@ https://zenn.dev/search?q=Laravel
 | Notation | 	[「表記法」](https://kotobank.jp/word/%E8%A1%A8%E8%A8%98%E6%B3%95-613173)とか |
 
  ↓記載例↓
-  ```json
+  ```json[
+[
   {
- [
- 　"ID": 1,
- 　"Name": "Taro",
- 　"age": 16
- ],
- [
-  "ID": 2,
-  "Name": "Hanako",
-  "age": 78
- ],
- [
-  "ID": 3,
-  "Name": "Yuji",
-  "age": 54
- ]
-}
+    "ID": 1,
+    "Name": "Taro",
+    "Age": 16
+  },
+  {
+    "ID": 2,
+    "Name": "Hanako",
+    "Age": 78
+  },
+  {
+    "ID": 3,
+    "Name": "Yuji",
+    "Age": 54
+  }
+]
  ```
