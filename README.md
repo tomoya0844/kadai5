@@ -80,20 +80,20 @@ https://zenn.dev/search?q=Laravel
  ↓記載例↓
   ```json
 [
-{
-  "ID": 1,
-  "Name": "Taro",
-  "Age": 16
-},
-{
-  "ID": 2,
-  "Name": "Hanako",
-  "Age": 78
-},
-{
-  "ID": 3,
-  "Name": "Yuji",
-  "Age": 54
-}
+  {
+    "ID": 1,
+    "Name": "Taro",
+    "Age": 16
+  },
+  {
+    "ID": 2,
+    "Name": "Hanako",
+    "Age": 78
+  },
+  {
+    "ID": 3,
+    "Name": "Yuji",
+    "Age": 54
+  }
 ]
  ```
